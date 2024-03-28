@@ -377,6 +377,26 @@ h3{
     border: 1px solid white;
 }
 
+#phone_address{
+    display: flex;
+}
+
+.address{
+    text-align: left;
+    color: white;
+    margin-top: 20px;
+}
+
+.phone-para{
+    color: goldenrod;
+}
+
+.phone{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
 .feedback{
     margin-top: 30px;
     margin-left: 55px;
